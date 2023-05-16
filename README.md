@@ -12,7 +12,3 @@ Let's keep it simple and just use the proposed list:
 - 📫 How to reach me: ... The usuals, email [damian.pastorini@gmail.com](mailto:damian.pastorini@gmail.com), discord https://discord.gg/HuJMxUY, GitHub issues :smile:? or add me to your network in https://www.linkedin.com/in/pastorini/ and send me a message.
 - 😄 Pronouns: ... None related to web developent.
 - ⚡ Fun fact: ... When I'm doing development I'm a cyclist, when I'm cycling I'm a developer :D
-
-For last let's check my stats here:
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=damian-pastorini&show_icons=true)
